@@ -10,8 +10,8 @@ selector{
 */
 
 body{
-    background-color: orange;
-    color: blueviolet;
+    background-color: blueviolet;
+    color: orange;
 }
 
 nav{
@@ -28,11 +28,6 @@ footer{
 }
 
 #KimK_Yawning{
-    margin-right: 200px;
-
-}
-
-#TalosImage{
     margin-right: 200px;
 }
 
